@@ -1,7 +1,7 @@
 frontend-nanodegree-mobile-portfolio
 ===
 
-**You can check this project [here](https://project42da.github.io/frontend-nanodegree-mobile-portfolio/)**
+**You can check this project [here](https://yuchen0815.github.io/mobile-portfolio/)**
 
 - Use [ImageOptim](http://imageoptim.com/)
 - Use [Cssminfier](https://cssminifier.com/) and [JavaScript Compression Tool](https://jscompress.com/)
